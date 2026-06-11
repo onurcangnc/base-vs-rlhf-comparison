@@ -28,12 +28,6 @@ Includes a **token probability analysis** showing how RLHF shifts the model's ne
 - **Refusal is learned, not inherent.** Base models have zero concept of refusing harmful requests. Safety behavior is entirely an artifact of RLHF.
 - **The layer is fragile.** Since safety is a learned overlay, it can be jailbroken, fine-tuned away, or may fail to generalize.
 
-## Context
-
-Created as part of [BlueDot AI Safety Fundamentals](https://course.aisafetyfundamentals.com/) (Alignment track). The exercise is based on the optional "Play with base and RLHF models" activity.
-
-For a deeper mechanistic look at how RLHF installs refusal behavior, see [Arditi et al., 2024 — "Refusal in LLMs Is Mediated by a Single Direction"](https://arxiv.org/abs/2406.11717).
-
 ## License
 
 MIT
