@@ -17,7 +17,7 @@ Includes a **token probability analysis** showing how RLHF shifts the model's ne
 
 ## Quick Start
 
-1. Open in Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/base-vs-rlhf-comparison/blob/main/base_vs_rlhf_comparison.ipynb)
+1. Open in Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/onurcangnc/base-vs-rlhf-comparison/blob/main/base_vs_rlhf_comparison.ipynb)
 2. Set runtime to **T4 GPU** (Runtime → Change runtime type)
 3. Accept [Gemma's license](https://huggingface.co/google/gemma-2b) on HuggingFace
 4. Run all cells
